@@ -1,8 +1,8 @@
 Hi there 👋
 
-##  Desafio_otimizar_sistema_bancario :computer::snake:
+##  desafio_sistema_bancario_poo :computer::snake:
 
-Otimização do Sistema Bancário previamente desenvolvido utilizando funções Python.
+Otimização do Sistema Bancário previamente desenvolvido utilizando programação orientada a objetos.
 
 ## Getting_started :wrench:
 
@@ -11,5 +11,5 @@ Otimização do Sistema Bancário previamente desenvolvido utilizando funções 
 ## Usage :pencil:
 
 O código pode ser usado para criar um menu interativo entre o usuário e o programa, permitindo simular o uso de um sistema bancário, principalmente o menu e operações como consultar saldo e realizar depósitos.
-O sistema foi otimizado através de funções, elas facilitam a reutilização do código e melhoram o desempenho do programa.
+O sistema foi otimizado através da criação de classes, elas facilitam a reutilização do código e melhoram o desempenho do programa.
 
